@@ -1,0 +1,25 @@
+small model of chuby shark for mobile or cartoony game 
+
+#simple single piece model (import and ready)
+
+#USE TOON SHADER.
+
+#rig(non humanoud single animation line )
+
+#single texture (WILL MAKE MORE IF YOU RATE 5)
+
+#animations (basic (if you want more animations ,asc in report))
+
+#ANIM LIST 
+IDLE(10-110)
+SNORT(120-220)
+FAT(230-330)
+EAT(340-440)
+SPRINT(460-480)
+RUN(490-510)
+JUMP FLIP(520-570)
+SLEEP(580-780)
+JUMP(780-930)
+ACTION(940-1070)
+
+### #### #### #### ####

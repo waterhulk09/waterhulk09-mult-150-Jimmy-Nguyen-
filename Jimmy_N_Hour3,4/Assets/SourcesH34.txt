@@ -1,0 +1,14 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlmOEEpw662NeijqUqWCDLCQB9M_A2vQOMbf3n4BzYFOsziY8qbeXL8v70NM9b4bCQ9FqswHXQUHEBjlkwgoNprlWMPfzrWouX7LU-E6vJsbfNDtIxH0UwPaNCLXu82oGmhLiFtVUVQ/s1600/Denim.jpg
+
+Texture 2 source url:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Z7PnZTipxznt7JhWszzBq2sdKLzxX8c_6DUbPb2ia8JDQ-lHe0noI3Xny_omR0OKjgYVGkQCbOnAOdAlxhPHqZPceUf5eBjzdXyrsZC8TW2wCNZnRn9PfIGnC93BJ91yQuftjQSvkg/s1600/Metal+armour+plating.jpg
+
+3D model source url:https://www.turbosquid.com/3d-models/shark-mobile-rig-3d-model-1455983
+
