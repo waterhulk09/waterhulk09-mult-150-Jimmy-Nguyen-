@@ -1,0 +1,43 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one. I Added 2 paths one hard and one easy the hard path has is shorter while the easy path is a longer. They both point to the same end goal.
+
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.) I have added spikes and a laser pits (some people would call them lava jumps) 
+
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump) the whole game is a vertical jumping platformer that make use of the jumping mechanic  
+
+
+
+D. Modify the sky and textures to create a world based on your theme. I uses sprites, models, sounds and music from a sonic game. (there was 2 that was unrelated that being the spikes and the I beam however the rest where) The sound effects I used came from various games that being Sonic 1 for the jump, Sonic Mania for the falling and Sonic unleashed for the footsteps. 
+
+The models I used came from SketchFab
+
+Links: 
+
+1 Sonic Generations: Stardust Speedway Rival Boss : https://sketchfab.com/3d-models/sonic-generations-stardust-speedway-rival-boss-ae97ed47e76c482687c19a0d89c9e8d4
+
+2 Eggman platform: https://sketchfab.com/3d-models/just-1-more-follower-please-f653af7326a44153948cb73774280485
+
+3 I beam: https://sketchfab.com/3d-models/i-beam-272744e1ba564051ad757d0ee7694423
+
+4 end of level capsule: https://sketchfab.com/3d-models/animal-capsule-sonic-generations-3a9323067fbc4ca58924e3b9d1252e8d
+
+5 Spikes: https://sketchfab.com/3d-models/spike-trap-01-4022678cac214fd2963894aa152fc6f2
+
+Links to the textures used: 
+
+Floor texture: https://www.spriters-resource.com/sega_cd/sonicthehedgehogcd/asset/120180/ (cropped out the little checker pattern.
+
+Skybox texture:https://www.reddit.com/r/SonicTheHedgehog/comments/720zi5/metallic_madness_act_1_background/#lightbox 
+
+
