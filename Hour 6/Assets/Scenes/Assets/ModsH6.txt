@@ -14,7 +14,7 @@ B. Modify the level to have more, and different hazards. (At least 2 new hazards
 
 
 
-C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump) the whole game is a vertical jumping platformer that make use of the jumping mechanic  
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump) the whole game is a vertical jumping platformer that make use of the jumping mechanic 
 
 
 
@@ -40,4 +40,5 @@ Floor texture: https://www.spriters-resource.com/sega_cd/sonicthehedgehogcd/asse
 
 Skybox texture:https://www.reddit.com/r/SonicTheHedgehog/comments/720zi5/metallic_madness_act_1_background/#lightbox 
 
+I also modified the player speed to be 7 as walking and 20 as run speed and jump height of 10.
 
