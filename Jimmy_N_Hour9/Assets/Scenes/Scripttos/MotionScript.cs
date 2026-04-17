@@ -26,11 +26,11 @@ public class MotionScript : MonoBehaviour
     }
     void OnTriggerEnter(Collider other)
     {
-        print(other.gameObject.name + " You have entered");
+        //print(other.gameObject.name + " You have entered");
     }
     
     void OnTriggerExit(Collider other)
     {
-        print(other.gameObject.name + " You have left");
+        //print(other.gameObject.name + " You have left");
     }
 }

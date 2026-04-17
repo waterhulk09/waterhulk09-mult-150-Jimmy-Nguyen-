@@ -1,0 +1,2 @@
+Make sure if you are testing the Motion script make sure to comment out the Bounce counter script Print function and vice versa if you are testing the other.
+(Motion script print function is commented out by default)
