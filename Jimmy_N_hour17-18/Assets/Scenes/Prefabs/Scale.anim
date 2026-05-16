@@ -22,15 +22,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: {x: 2.6617, y: 2.6617, z: 2.6617}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 5.932243}
+        outSlope: {x: 0, y: 0, z: 5.932243}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5
-        value: {x: 5.484965, y: 5.484965, z: 5.484965}
+        value: {x: 5.484965, y: 5.484965, z: 5.6278214}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -40,8 +40,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 1
         value: {x: 2.6617, y: 2.6617, z: 2.6617}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -5.932243}
+        outSlope: {x: 0, y: 0, z: -5.932243}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -168,27 +168,27 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 2.6617
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: 5.932243
+        outSlope: 5.932243
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
-        value: 5.484965
+        value: 5.6278214
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 2.6617
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: -5.932243
+        outSlope: -5.932243
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
