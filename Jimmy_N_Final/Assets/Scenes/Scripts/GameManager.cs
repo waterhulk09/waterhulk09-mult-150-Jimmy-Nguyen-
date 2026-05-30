@@ -13,14 +13,14 @@ public class GameManager : MonoBehaviour
 
 
     // Update is called once per frame
-    public GoalScript normal,Normal,icy,icy2,slimy,slimy2,slow,Slow;
+    public GoalScript normal,normal2,icy,icy2,slimy,slimy2,slow,slow2;
     private bool isGameOver = true;
     void Update()
     {
         // If all four goals are solved then the game is over
         isGameOver = icy.isSolved && slimy.isSolved &&
        normal.isSolved && slow.isSolved && icy2.isSolved && slimy2.isSolved &&
-       Normal.isSolved && Slow.isSolved;
+       normal2.isSolved && slow2.isSolved;
     }
     void OnGUI()
     {

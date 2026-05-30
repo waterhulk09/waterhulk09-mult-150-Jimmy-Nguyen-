@@ -5,15 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Chaos
-  - Salmon
   - Icy
   - Slimy
   - normal
-  - Slow
   - Icy2
   - Slimy2
-  - Normal
   - slow
+  - slow2
+  - normal2
   layers:
   - Default
   - TransparentFX
